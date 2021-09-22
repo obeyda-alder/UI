@@ -1,0 +1,28 @@
+// app global css in SCSS form
+
+@font-face {
+  font-family: "GE_SS_Two_Light";
+  src: url("./fonts/GE_SS_Two_Light/GE_SS_Two_Light.otf");
+}
+@font-face {
+  font-family: "GE_SS_Two_Medium";
+  src: url("./fonts/GE_SS_Two_Medium/GE_SS_Two_Medium.otf");
+}
+@font-face {
+  font-family: "GE_SS_Two_Bold";
+  src: url("./fonts/GE_SS_Two_Bold/GE_SS_Two_Bold.otf");
+}
+@font-face {
+  font-family: "Gilroy_Bold";
+  src: url("./fonts/Gilroy/Gilroy-Bold.ttf");
+}
+
+body {
+  font-family: "GE_SS_Two_Medium";
+}
+a {
+  text-decoration: none;
+}
+#error_4b87f26d435d5f91478c485a43ec3a7de6c5a105 {
+  display: none;
+}
